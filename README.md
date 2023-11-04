@@ -1,1 +1,1 @@
-﻿# Primeiro Projeto == Detona-Ralph
+﻿# Primeiro Projeto de Desenvolvimento de Games.
