@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("https://1.bp.blogspot.com/-cH3UAuC88ag/WoymlFNVmbI/AAAAAAAAIxw/HhPNo-I74OULyqq4my8JC9ywXdgG-od1ACLcBGAs/s2560/wreck_it_ralph_animation_movie-wallpapers.jpg");
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-bottom:  5px solid #ffd700;
+}
+.panel{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.square{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    background-color: #39aa84;
+}
+
+.enemy{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.SmeqH1IfXfemmA_A8RbReQHaFp&pid=Api&P=0&h=180");
+    background-size: cover;
+}
+.menu-lives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2){
+    margin-top: 10px;
+}
